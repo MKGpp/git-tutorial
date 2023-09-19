@@ -1,5 +1,7 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+This project is now a testing environment.
+I will be using it to build on HTML and CSS skills and create webpages.
 
-This repository is built step by step in the tutorial.
+Later I will add more projects with different languages as I learn them.
+More details can be found on my GitHub.
+
+https://www.Github.com/MKGpp
